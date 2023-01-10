@@ -59,6 +59,16 @@ My roadmap to study Data Science.
 | Python и машинное обучение | Себастьян Рашка | To Do |
 | Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | To Do |
 
+### AI for Trading
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Udacity](https://www.udacity.com/course/ai-for-trading--nd880) | AI for Trading | **Completed** |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Successful algorithmic trading| Michael L. Halls-Moore | **Completed** |
+
 ### Deep Learning
 #### Courses
 | URL | Title | Status |
